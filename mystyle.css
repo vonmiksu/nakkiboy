@@ -1,0 +1,108 @@
+        mystyle.css
+
+    
+        * {
+            box-sizing: border-box;
+          }
+
+                .header {
+                    padding: 30px;
+                    text-align: center;
+                    background-color:#D2D2FA;
+                
+                  }
+
+                  .header h1 { font-style:30px;
+                                color:white;
+
+                  }
+
+                .topnav {overflow:hidden;
+                        color:#ABA89A;}
+                  
+          nav {
+                float: left;
+                width: 30%;
+                background: #ccc;
+                padding: 20px;}
+            
+            article {
+                float:right;
+                width:70%;
+                background:#FFF5DE;
+                padding: 20px;
+            }
+        
+            h1 
+                {text-align: center;
+                font-family:monospace;
+                padding-top: 10px;
+                padding-right: 5px;
+                padding-bottom: 15px;
+                padding-left: 10px;
+              }
+               
+            h2  {text-align:center;
+                font-family:monospace;
+                padding-top: 10px;
+                padding-right: 5px;
+                padding-bottom: 15px;
+                padding-left: 10px;}
+                
+            p    {text-align:center;
+                padding-top: 10px;
+                padding-right: 5px;
+                padding-bottom: 15px;
+                padding-left: 10px;
+                color:black;
+                font-family:monospace;}
+                
+
+            li  {text-align:center;
+                color:black;
+                padding-top: 10px;
+                padding-right: 5px;
+                padding-bottom: 15px;
+                padding-left: 10px;}
+               
+            
+            
+            
+          dl {text-align:center;
+            color:black;
+            font-size:17px;
+            }
+                
+                        
+             #nakki-entry  {text-align:center;
+                        background-color:#D6D6FF;
+                            font-weight:bold;
+                            padding-top: 10px;
+                padding-right: 5px;
+                padding-bottom: 15px;
+                padding-left: 10px;}
+                            
+                       
+            progress  {color:coral;
+                      text-align:center;
+                    }
+
+            .groove {border-style:groove;
+                    background-color:#9495B5;
+                    border-width: 2px 2px 2px 2px; 
+                    border-radius: 20px;
+                    padding-top: 30px;
+                    padding-right: 10px;
+                    padding-bottom: 20px;
+                    padding-left: 40px;}
+
+            .dotted  {border-style:dotted;
+                      color:black;
+                    border-width:5px 2px 3px 5px;
+                    padding-top: 5px;
+                padding-right: 2px;
+                padding-bottom: 5px;
+                padding-left:2px;
+                    }  
+               
+          

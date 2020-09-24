@@ -1,0 +1,87 @@
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    background-color: #FFF5DE;
+    font-family: monospace;
+    color: black;
+    font-size: 17px;
+    text-align: center;
+}
+
+body    {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    padding: 40px;
+    text-align: center;
+    background-color: #D2D2FA;
+}
+
+.header h1 {
+    font-size: 40px;
+    color: white;
+    font-family: monospace;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: black;
+}
+
+.topnav a {
+    float: right;
+    display: block;
+    color: #EBEBF5;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.card {
+    background-color: #FFF5De;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.card2 {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.leftcolumn {
+    float: left;
+    width: 75%;
+    text-align: left;
+}
+
+.leftcolumn h1 {
+    font-style: bold;
+    font-size: 20px
+}
+
+.rightcolumn {
+    float: right;
+    width: 25%;
+    padding-left: 20px;
+    background-color: #F2F2F2;
+}
+
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+    margin-top: 20px;
+}
